@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(205, 253, 255);
+    border: 2px solid black;
+}
+
+h1 {
+    /*color: #9aca42;*/
+    background-color: #9aca42;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 30px;
+    font-weight: normal;
+    /*space applied to all sides*/
+    padding: 5px;
+    margin: 15px;   
+    border: 1px inset blue;
+}
+
+p {
+    background-color: #a0d2dc;
+    /*color: #357180;*/
+    text-align: center;
+    font-family: cursive;
+    font-size: 15px;
+    font-weight: bold;
+    /* space aplied to top, bottom and left, right respectively */
+    padding: 5px 10px;
+    margin: 10px 5px;
+    border: 1px dashed #4d8353;
+}
+
+h2 {
+    /* space applied to top, right, bottom and left respectively */
+    padding: 15px 10px 14px 30px;
+    margin: 5px 10px 8px 30px;
+    background-color: #a0d2dc;
+    text-align: center;
+    border: 1px ridge blueviolet;
+}
