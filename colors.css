@@ -1,0 +1,40 @@
+#paragraph {
+    color: #eab02f;
+    background-color: #48a1af;
+}
+
+#paragraph2 {
+    color: rgb(221, 42, 36);
+    background-color: rgb(255, 175, 113);
+}
+
+#header1 {
+    background-color: rgba(101, 119, 196, 0.8);
+    padding-bottom: 20px;
+    margin-left: 20px;
+}
+
+#paragraph3 {
+    background-color: rgba(255, 175, 113, 0.6);
+    padding-top: 20px;
+    margin-top: -30px;
+    margin-right: 20px;
+}
+
+#paragraph4 {
+    color: hsl(118, 66%, 57%);
+    background-color: hsl(190, 27%, 87%);
+}
+
+#header2 {
+    background-color: hsl(287, 55%, 71%);
+    padding-bottom: 20px;
+    margin-left: 20px;
+}
+
+#paragraph5 {
+    background-color: hsla(54, 83%, 67%, 0.7);
+    padding-top: 20px;
+    margin-top: -30px;
+    margin-right: 20px;
+}
